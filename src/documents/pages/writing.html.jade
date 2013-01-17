@@ -1,0 +1,12 @@
+---
+title: Writing
+layout: page
+pageOrder: 2
+---
+
+nav.linklist
+  each doc in getCollection('posts').toJSON()
+    p
+      span= doc.date.toShortDateString()
+      |  |&nbsp;
+      a(href=doc.url)= doc.title

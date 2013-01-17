@@ -4,6 +4,7 @@
 //- Prettify Syntax Highlighting
 - scripts.add(["/vendor/prettify.js"])
 - styles.add(["/vendor/prettify.css"])
+- styles.add(["http://fonts.googleapis.com/css?family=Open+Sans:400,300,700"])
 
 //- jQuery
 - scripts.add(["/vendor/jquery.js"])
@@ -11,6 +12,7 @@
 //- Bootstrap
 - scripts.add(["/vendor/twitter-bootstrap/js/bootstrap.js"])
 - styles.add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css"])
+- styles.add(["/vendor/twitter-bootstrap/css/font-awesome.min.css"])
 
 //- Other Scripts
 - scripts.add(["/vendor/log.js","/vendor/modernizr.js"])
@@ -18,6 +20,7 @@
 //- User
 - styles.add(["/styles/style.css"])
 - scripts.add(["/scripts/script.js"])
+
 
 doctype 5
 html(lang="en")
@@ -46,10 +49,6 @@ html(lang="en")
 
     // Icons
     link(rel="shortcut icon", href="ico/favicon.ico")
-    link(rel="apple-touch-icon-precomposed", sizes="144x144", href="ico/apple-touch-icon-144-precomposed.png")
-    link(rel="apple-touch-icon-precomposed", sizes="114x114", href="ico/apple-touch-icon-114-precomposed.png")
-    link(rel="apple-touch-icon-precomposed", sizes="72x72", href="ico/apple-touch-icon-72-precomposed.png")
-    link(rel="apple-touch-icon-precomposed", href="ico/apple-touch-icon-57-precomposed.png")
 
     //- Shims: IE6-8 support of HTML5 elements
     //if lt IE 9
@@ -61,21 +60,35 @@ html(lang="en")
   body
 
     // Markup
-    .navbar.navbar-fixed-top
+    .navbar.navbar-fixed-top.navbar-fixed-top
       .navbar-inner
         .container
-          a.brand(href="/") Welcome
-          ul.nav
-            each doc in getCollection('pages').toJSON()
-              - clazz = (document.url === doc.url) ? 'active' : null
-              li(typeof="sioc:Page", about=doc.url, class=clazz)
-                a(href=doc.url, property="dc:title")= doc.title
-    .container
-      section#content.content!= content
-      hr
-      footer
-        div= site.copyright
-        div(style="font-style:italic; font-size: 12px") This website was last updated at #{site.date}
+          .row
+            .span10.offset1
+              a.brand(href="/") Evbogue.com
+              ul.nav
+                each doc in getCollection('pages').toJSON()
+                  - clazz = (document.url === doc.url) ? 'active' : null
+                  li(typeof="sioc:Page", about=doc.url, class=clazz)
+                    a(href=doc.url, property="dc:title")= doc.title  
+                li <a href="http://github.com/evbogue"><i class="icon-github-alt"></i> Github</a>
+                li <a href="mailto:ev@evbogue.com"><i class="icon-envelope"></i> ev@evbogue.com</a>
 
+    .container
+      .row
+        .span7.offset1
+          section#content.content!= content
+        .span3 
+          <img src="https://secure.gravatar.com/avatar/40a5e089f8c877d995141f9a780fadc9?s=420" class="img-polaroid" style="margin-bottom: .5em;">
+          h4 Hi, I'm Ev Bogue. 
+          p I'm a technical writer and web developer fascinated by Node.js and Bitcoin. <a href="/pages/about">About me</a>.
+
+          
+
+
+
+        
+   
+          
     // Scripts
     != scripts.toHTML()

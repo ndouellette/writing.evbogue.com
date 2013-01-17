@@ -46,4 +46,4 @@
 		"docpad-plugin-livereload": "2.x"
 	},
 	"main": "node_modules/docpad/bin/docpad-server"
-}
+	}

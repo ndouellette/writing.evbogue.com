@@ -12,35 +12,34 @@ docpadConfig =
     # Specify some site properties
     site:
       # The production url of our website
-      url: "http://website.com"
+      url: "http://evbogue.com"
 
       # Here are some old site urls that you would like to redirect from
       oldUrls: [
-        'www.website.com',
-        'website.herokuapp.com'
+        'www.evbogue.com',
       ]
 
       # The default title of our website
-      title: "Your Website"
+      title: "Ev Bogue"
 
       # The website description (for SEO)
       description: """
-        When your website appears in search results in say Google, the text here will be shown underneath your website's title.
+        This is the website of Ev Bogue. I'm a technical writer and web developer fascinated by Node.js and Bitcoin.
         """
 
       # The website keywords (for SEO) separated by commas
       keywords: """
-        place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+        ev, bogue, everett, untether, node, nodejs, express, bitcoin, writing, publishing, fun, github, git, opensource
         """
 
       # The website author's name
-      author: "Your Name"
+      author: "Ev Bogue"
 
       # The website author's email
-      email: "your@email.com"
+      email: "ev@evbogue.com"
 
       # Your company's name
-      copyright: "© Your Company 2012"
+      copyright: "© Ev Bogue 2013"
 
 
     # Helper Functions
