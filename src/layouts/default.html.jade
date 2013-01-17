@@ -71,10 +71,12 @@ html(lang="en")
                   - clazz = (document.url === doc.url) ? 'active' : null
                   li(typeof="sioc:Page", about=doc.url, class=clazz)
                     a(href=doc.url, property="dc:title")= doc.title  
-                li <a href="http://github.com/evbogue"><i class="icon-github-alt"></i></a>
-                li <a href="mailto:ev@evbogue.com"><i class="icon-envelope"></i></a>
+              ul.nav.pull-right
+                li <a href="http://github.com/evbogue"><i class="icon-github-alt"></i></a> 
+                li <a href="mailto:ev@evbogue.com"><i class="icon-envelope"></i></a> 
+                li <a href="/atom.xml"><i class="icon-rss"></i></a>
 
-    .container
+    .container.container-main
       .row
         .span7.offset1
           section#content.content!= content
