@@ -71,8 +71,8 @@ html(lang="en")
                   - clazz = (document.url === doc.url) ? 'active' : null
                   li(typeof="sioc:Page", about=doc.url, class=clazz)
                     a(href=doc.url, property="dc:title")= doc.title  
-                li <a href="http://github.com/evbogue"><i class="icon-github-alt"></i> Github</a>
-                li <a href="mailto:ev@evbogue.com"><i class="icon-envelope"></i> ev@evbogue.com</a>
+                li <a href="http://github.com/evbogue"><i class="icon-github-alt"></i></a>
+                li <a href="mailto:ev@evbogue.com"><i class="icon-envelope"></i></a>
 
     .container
       .row
@@ -81,14 +81,7 @@ html(lang="en")
         .span3 
           <img src="https://secure.gravatar.com/avatar/40a5e089f8c877d995141f9a780fadc9?s=420" class="img-polaroid" style="margin-bottom: .5em;">
           h4 Hi, I'm Ev Bogue. 
-          p I'm a technical writer and web developer fascinated by Node.js and Bitcoin. <a href="/pages/about">About me</a>.
-
-          
-
-
-
-        
-   
+          p I'm a technical writer and web developer fascinated by Node.js and Bitcoin. <a href="/pages/about">About</a>.
           
     // Scripts
     != scripts.toHTML()
