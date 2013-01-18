@@ -36,7 +36,7 @@ Here are a few things I'd like to do over the next month or two.
 The first one seems doable. The trouble is that I'm entirely unable to tell you anything I don't think is true. So if you're looking for some sort of one-bite powderpuff answer to everything, try reading something else. 
 
 If not, maybe you have the balls to hear what I'm writing right here. 
-If you don't have the balls, then I'd like to ask if you'd be willing to send a few dollars here from your extra-fat settled-down paycheck, so I can have more resources to solve this problem for you. Because obviously you're not going to do it.
+If you don't have the balls, then I'd like to ask if you'd be willing to [send a few dollars here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VH42PJCGS3DQU) from your extra-fat settled-down paycheck, so I can have more resources to solve this problem for you. Because obviously you're not going to do it.
 
 Meanwhile, I'll be sitting here in the basement trying to pump an asychronous realtime stream from me to you.
 
