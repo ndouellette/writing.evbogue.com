@@ -2,6 +2,7 @@
 title: Shalimar by my birthday?
 layout: post
 tags: ['indian','pakistani', 'food', 'san francisco']
+date: Jan 17 02:05:35 EST 2013
 ---
 
 Somewhere on the border of the Tenderlion in downtown San Francisco is a tiny little northern pakistani place called Shalimar. It's open late. The mexicans behind the counter server the most amazing indian/pakistani food you've ever had. It's served on giant tacky china plates, with naan as long as your forearm covered in garlic and olive oil.

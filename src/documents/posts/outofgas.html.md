@@ -2,6 +2,7 @@
 title: Out of Gas
 layout: post
 tags: ['p2p','social', 'distributed']
+date: Jan 15 18:06:35 EST 2013
 ---
 
 The Olds ran out of gas thirty miles from Raleigh, NC. Is this a metaphor for my life? I asked. 
