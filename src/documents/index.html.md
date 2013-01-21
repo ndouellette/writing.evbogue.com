@@ -12,11 +12,11 @@ Jan 19 2013 | "...encryption means [Mega](http://mega.co.nz) will be like the Sw
 
 Jan 18 2013 | Maybe the [Singularity isn't near](http://www.edge.org/response-detail/23784) after all...?
 
-Jan 18 2013 | [2013 is the year of deploy](/posts/deploy). [Evbogue.com]
+Jan 18 2013 | [2013 is the year of deploy](/posts/deploy).
 
 Jan 17 2013 | <a href="https://xkcd.com/bitcoin/">xkcd accepts Bitcoins</a>.
 
-Jan 17 2013 | <a href="/posts/shalimar">Shalimar by my birthday</a>? [Evbogue.com]
+Jan 17 2013 | <a href="/posts/shalimar">Shalimar by my birthday</a>? 
 
 Jan 16 2013 | How easy is it to accept Bitcoin donations? <a href="http://accept.bitcoin.se/">accept.bitcoin.se</a>.
 
