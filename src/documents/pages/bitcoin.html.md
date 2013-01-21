@@ -16,7 +16,7 @@ I'm fascinated with Bitcoin because it gives me a way to earn and save with no m
 
 ### Get started 
 
-Want a few free mBTC? Send me a note with your receive address and I'll send you a few mBTC to play with.
+Send me a note with your receive address and I'll send you a few mBTC [ev@evbogue.com](mailto:ev@evbogue.com)
 
 ### Bitcoin sites
 
