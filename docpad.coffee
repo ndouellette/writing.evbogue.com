@@ -2,6 +2,12 @@
 # It is simply a CoffeeScript Object which is parsed by CSON
 docpadConfig =
 
+  # =================================
+  # DocPad Configuration
+
+  # Change the port DocPad uses from the default 9778 to 8080
+  port: 8080
+
   # Template Data
   # =============
   # These are variables that will be accessible via our templates
@@ -12,11 +18,11 @@ docpadConfig =
     # Specify some site properties
     site:
       # The production url of our website
-      url: "http://evbogue.com"
+      url: "http://docpad.evbogue.com"
 
       # Here are some old site urls that you would like to redirect from
       oldUrls: [
-        'www.evbogue.com',
+        'www.evbogue.com'
       ]
 
       # The default title of our website
