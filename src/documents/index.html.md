@@ -8,6 +8,8 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
 
+Jan 21 2013 | [Deploying node with systemd](http://savanne.be/articles/deploying-node-js-with-systemd/).
+
 Jan 19 2013 | "...encryption means [Mega](http://mega.co.nz) will be like the Swiss bank of online storage services" -[Ars Technica](http://arstechnica.com/tech-policy/2013/01/building-mega-ars-pre-launch-interview-with-kim-dotcom/)
 
 Jan 18 2013 | Maybe the [Singularity isn't near](http://www.edge.org/response-detail/23784) after all...?
