@@ -20,9 +20,11 @@ From what I've gathered of the web dev scene, from pouring nearly all of my ener
 Why? Because the age of centralized apps is fading. In the near future, we'll look back at 2006-2012 as if remembering a bad SWSX hangover. Why? Because almost every centralized service is being replaced by an ultra-fast distributed Node.js app. 
 
 Do you want collaborative editing? We have that.
+
 Do you want a chat room? We have plenty of those?
-DO you want realtime analytics? No. Really. Real time. And not simultaneously mega-corp spyware.
+
+Do you want realtime analytics? No. Really. Real time. And not simultaneously mega-corp spyware.
+
 Do you want a simple blog engine? Code one yourself.
 
-2013 is the year of deployment. 
-Hundreds of tiny personal apps are in your future.
+2013 is the year of deployment. Hundreds of tiny personal apps are in your future.
