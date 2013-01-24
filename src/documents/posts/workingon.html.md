@@ -1,7 +1,7 @@
 ---
 title: What I've been working on...
 layout: post
-tags ['node', 'work', 'node.js', 'hacking']
+tags: ['node', 'work', 'node.js', 'hacking']
 date: Jan 24 06:08:37 EST 2013
 ---
 
