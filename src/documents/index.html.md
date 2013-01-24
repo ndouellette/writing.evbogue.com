@@ -12,8 +12,6 @@ Jan 24 2013 | [What I'm working on...](/posts/workingon)
 
 Jan 21 2013 | [Deploying node with systemd](http://savanne.be/articles/deploying-node-js-with-systemd/).
 
-Jan 19 2013 | "...encryption means [Mega](http://mega.co.nz) will be like the Swiss bank of online storage services" -[Ars Technica](http://arstechnica.com/tech-policy/2013/01/building-mega-ars-pre-launch-interview-with-kim-dotcom/)
-
 Jan 18 2013 | Maybe the [Singularity isn't near](http://www.edge.org/response-detail/23784) after all...?
 
 Jan 18 2013 | [2013 is the year of deploy](/posts/deploy).
@@ -26,7 +24,7 @@ Jan 16 2013 | How easy is it to accept Bitcoin donations? <a href="http://accept
 
 Jan 15 2013 | Transitioning site to <a href="https://github.com/bevry/docpad/">Docpad</a>.
 
-Jan 14 2013 | Wrote about <a href="/posts/outofgas">running out of gas</a> and technological challenges.
+Jan 14 2013 | Wrote about <a href="/posts/outofgas">running out of gas</a>.
 
 Jan 13 2013 | <a href="http://openshift.redhat.com/">Openshift</a> looks cool.
 
