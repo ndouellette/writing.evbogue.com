@@ -11,6 +11,7 @@
 
 //- Bootstrap
 - scripts.add(["/vendor/twitter-bootstrap/js/bootstrap.js"])
+- scripts.add(["/vendor/twitter-bootstrap/js/bootstrap-affix.js"])
 - styles.add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css"])
 - styles.add(["/vendor/twitter-bootstrap/css/font-awesome.min.css"])
 
@@ -80,10 +81,10 @@ html(lang="en")
       .row
         .span7.offset1
           section#content.content!= content
-        .span3 
-          <img src="https://secure.gravatar.com/avatar/40a5e089f8c877d995141f9a780fadc9?s=420" class="img-polaroid" style="margin-bottom: .5em;">
-          h4 Hi, I'm Ev Bogue. 
-          p I'm a technical writer and web developer fascinated by Node.js and Bitcoin. <a href="/pages/about">About</a>.
+        
+        .span3
+          include sidebar.html 
+
           
     // Scripts
     != scripts.toHTML()
