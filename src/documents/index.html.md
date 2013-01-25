@@ -8,6 +8,8 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
 
+Jan 25 2013 | Real time web stats: [hummingbird.evbogue.com](http://hummingbird.evbogue.com)
+
 Jan 24 2013 | [What I'm working on...](/posts/workingon)
 
 Jan 21 2013 | [Deploying node with systemd](http://savanne.be/articles/deploying-node-js-with-systemd/).
