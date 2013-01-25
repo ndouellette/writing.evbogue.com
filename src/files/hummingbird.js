@@ -25,6 +25,6 @@ HummingbirdTracker = {
 
     // replace 'localhost:8080' with hummingbird's URL
     var img = new Image();
-    img.src = 'http://localhost:8087/tracking_pixel.gif?' + params.join('&');
+    img.src = 'http://docpad.evbogue.com:8087/tracking_pixel.gif?' + params.join('&');
   }
 };
