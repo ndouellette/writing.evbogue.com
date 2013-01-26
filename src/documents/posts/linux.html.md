@@ -21,7 +21,7 @@ Right now I'm running Ubuntu on my MBA. I'm running [Debian](http://www.debian.o
 
 If you're thinking about making the switch from a Mac. I say, do it now.
 
-You'll learning a lot more about your computer. 
+You'll learn a lot more about your computer. 
 
 You'll be using a superior operating system.
 
