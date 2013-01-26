@@ -26,3 +26,5 @@ You'll learn a lot more about your computer.
 You'll be using a superior operating system.
 
 Linux will give you a competative edge over everyone else. 
+
+<img src="/img/linux.png" />
