@@ -8,6 +8,8 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
 
+Jan 25 2013 | [Why you should really be using Linux](/posts/linux)
+
 Jan 25 2013 | Real time web stats: [hummingbird.evbogue.com](http://hummingbird.evbogue.com)
 
 Jan 24 2013 | [What I'm working on...](/posts/workingon)
