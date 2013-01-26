@@ -1,7 +1,7 @@
 ---
 title: Node.js
 layout: page
-tags: ['express','node.js', development]
+tags: ['express','node.js', 'development']
 pageOrder: 3
 ---
 
@@ -12,7 +12,8 @@ I've been obsessed with [Node.js](http://nodejs.org/) since mid-2012 when I star
 
 ### Node.js servers deployed
 
-+ [docpad.evbogue.com](http://docpad.evbogue.com)
++ [docpad.evbogue.com](http://docpad.evbogue.com) - Node.js for words
++ [hummingbird.evbogue.com](http://hummingbird.evbogue.com) - Real time stats
 
 ### Node.js things of interest
 
