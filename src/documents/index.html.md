@@ -8,9 +8,9 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
 
-Jan 26 2013 | Ripple hopes to be a distributed currency exchange between BTC and other currencies. [Join the beta.](https://ripple.com/) Send me XRP using Ripple to: rGGEWbsXyZMV9u9EjfDHLgP1VVxjXNZTkN 
- 
-Jan 25 2013 | [Why you should really be using Linux](/posts/linux)
+Jan 26 2013 | Use Ripple to send me XRP: rGGEWbsXyZMV9u9EjfDHLgP1VVxjXNZTkN
+
+Jan 26 2013 | Ripple hopes to be a distributed currency exchange between BTC and other currencies. [Join the beta.](https://ripple.com/) Jan 25 2013 | [Why you should really be using Linux](/posts/linux)
 
 Jan 25 2013 | Real time web stats: [hummingbird.evbogue.com](http://hummingbird.evbogue.com)
 
