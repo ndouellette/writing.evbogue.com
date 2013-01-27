@@ -8,9 +8,9 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
 
-Jan 26 2013 | Use Ripple to send me XRP: rGGEWbsXyZMV9u9EjfDHLgP1VVxjXNZTkN
+Jan 26 2013 | [A new development era](http://blog.ziade.org/2013/01/25/a-new-development-era-essay/).
 
-Jan 26 2013 | Ripple hopes to be a distributed currency exchange between BTC and other currencies. [Join the beta.](https://ripple.com/) 
+Jan 26 2013 | Use [Ripple](http://ripple.com) to send me XRP: rGGEWbsXyZMV9u9EjfDHLgP1VVxjXNZTkN
 
 Jan 25 2013 | [Why you should really be using Linux](/posts/linux)
 
