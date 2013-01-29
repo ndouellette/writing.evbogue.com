@@ -68,7 +68,7 @@ So why should you hire me? Because I live breathe and sleep Bitcoin. I'd like to
 
 What I need from you:
 
-I have 42 US dollars right now, and 9.97 BTC. If you'd like to do an in-person interview, you'd need to fly me from North Carolina to San Francisco. I can probably find a friend's floor to crash at, or perhaps you'd be willing to put me up at one of those hostels in the Tenderloin. 
+I have 42 US dollars right now, and 9.97 BTC. If you'd like to do an in-person interview, you'd need to fly me from North Carolina to San Francisco. One-way is fine. I can probably find a friend's floor to crash at, or perhaps you'd be willing to put me up at one of those hostels in the Tenderloin. 
 
 I had to sell my computer to get out of Berlin last summer, so if you'd be willing to buy me a work laptop, I'd be very grateful. After I get my first paycheck, I'd probably buy a computer from the Bitcoin store and install Ubuntu or Debian on it.
 
