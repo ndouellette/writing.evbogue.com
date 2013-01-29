@@ -8,6 +8,8 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
 
+Jan 29 2013 | I [sent a resume](/posts/coinbase) to [Coinbase](http://coinbase.com)
+
 Jan 27 2013 | [You don't have to be an idiot about Bitcoin](/posts/idiot)
 
 Jan 26 2013 | [A new development era](http://blog.ziade.org/2013/01/25/a-new-development-era-essay/).
