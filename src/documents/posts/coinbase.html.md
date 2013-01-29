@@ -48,31 +48,29 @@ Right now I'm obsessed with deploying Node.js apps. I think they're the future. 
 
 In my experience at startups, inevitably a new CEO needs to bring on someone who can take all of the boring mundane repetitative tasks off their hands. As someone with a very similar skillset to you, I'd be the best candidate for that job.
 
-I'm not sending a resume, because I know all of the skills I had before don't apply to what I'm working on right now. However, if you'd like to establish a track history for me, here are a few things you should know.
-
 ### Brief resume
 
-For the past three years I made a living from publishing online. I left San Francisco last year to travel the world, living and working from anywhere.
+For the past three years I made a living from publishing online. I left San Francisco last year to travel the world, living and working as I travelled.
 
 I helped launch Nymag.com's blog network in 2006-2009. I was the photo editor for three years.
 
 I graduated from NYU in 2006 with a double major in Journalism and Dance. I worked in NYU's information technology department helping students get viruses off their machines. This is actually the most relevant work experience I have for your current position, because it was basically security customer service.
 
-I worked at the Apple Store for six months after I graduated from college. I quit after six months to work at Nymag.com.
+I worked at the Apple Store for six months after I graduated from college.
 
 <img src="/img/evboguecyborg.jpg" class="pull-right img-polaroid" />
 
 ###Hire me.
 
-So why should you hire me? Because I live breathe and sleep Bitcoin. I'd like to get better at Node.js. I can do things you might be bored of doing. I'm not afraid of taking risks. I also consider myself an allstar in-person communicator. I'm fun to be around. I love eating burritos at Taqueria Cancun. 
+So why should you hire me? Because I live breathe and sleep Bitcoin. I'm getting better at Node.js. I can do things you might be bored of doing. I'm not afraid of taking risks. I also consider myself an allstar in-person communicator. I'm fun to be around. I love eating burritos at Taqueria Cancun. 
 
 What I need from you:
 
-I have 42 US dollars right now, and 9.97 BTC. If you'd like to do an in-person interview, you'd need to fly me from North Carolina to San Francisco. One-way is fine. I can probably find a friend's floor to crash at, or perhaps you'd be willing to put me up at one of those hostels in the Tenderloin. 
+I have 42 US dollars right now, and 9.97 BTC. If you'd like to do an in-person interview, you'd need to fly me from North Carolina to San Francisco. One-way is fine. I can probably find a friend's floor to crash on, or perhaps you'd be willing to put me up at one of those hostels in the Tenderloin. 
 
-I had to sell my computer to get out of Berlin last summer, so if you'd be willing to buy me a work laptop, I'd be very grateful. After I get my first paycheck, I'd probably buy a computer from the Bitcoin store and install Ubuntu or Debian on it.
+I had to sell my computer to get out of Berlin last summer, so if you'd be willing to buy me a work laptop, I'd be grateful. After I get my first paycheck, I'd probably buy a computer from the Bitcoin store and install Ubuntu or Debian on it.
 
-If you'd like to chat over [Skype](skype:evbogue), I'm open to that too.
+If you'd like to chat over [Skype](skype:evbogue), I'm open to that, too.
 
 The sooner I can get out of this basement and back to work on things I care about the better. Let's do this.
 
