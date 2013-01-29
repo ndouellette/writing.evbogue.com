@@ -1,5 +1,5 @@
 ---
-title: Coinbase Cover Letter and Resume
+title: Why Coinbase should hire me (cover letter and resume)
 date: Tue Jan 29 03:50:44 EST 2013
 layout: post
 ---
