@@ -12,7 +12,7 @@ Jan 29 2013 | [I sent a resume](/posts/coinbase) to [Coinbase](http://coinbase.c
 
 Jan 27 2013 | [You don't have to be an idiot about Bitcoin](/posts/idiot)
 
-Jan 26 2013 | [A new development era](http://blog.ziade.org/2013/01/25/a-new-development-era-essay
+Jan 26 2013 | [A new development era](http://blog.ziade.org/2013/01/25/a-new-development-era-essay)
 
 Jan 26 2013 | Use [Ripple](http://ripple.com) to send me XRP: rGGEWbsXyZMV9u9EjfDHLgP1VVxjXNZTkN
 
