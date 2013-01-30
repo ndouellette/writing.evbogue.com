@@ -25,6 +25,7 @@ Send me a note with your receive address and I'll send you a few mBTC [ev@evbogu
 + [Preev](http://www.preev.com/) - Simple Bitcoin converter
 + [Bitcoinity](http://bitcoinity.org/markets) - Watch the Bitcoin market
 + [Blockchain.info](http://blockchain.info) - Online Bitcoin wallet
++ [Coinbase](http://coinbase.com) - Bitcoin wallet and exchange
 
 If you have questions about Bitcoin, feel free to [contact me](mailto:ev@evbogue.com).
 
