@@ -27,7 +27,7 @@ I will look out for the best interests of humanity as we launch ourselves toward
 
 I will make sure ad-block is enabled. And cannot be disabled.
 
-I will make sure you get access to a terminal window, where you can quickly hit kill all AI processes, should they become self aware and try to kill you.
+I will make sure you get access to a terminal window, where you can quickly hit kill all on the AI processes, should they become self aware and try to kill you.
 
 I will guarantee that you can run your own personal AI on your PMD (personal mesh device) and thus maintain distributed checks-and-balances. As this is the only way to make sure the human race doesn't get edit-undo-ed from the face of the Earth the minute the cylons are invented at Google.
 
