@@ -44,6 +44,7 @@ I've been obsessed with [Node.js](http://nodejs.org/) since mid-2012 when I star
 
 + [Getting Started with Express.js](http://howtonode.org/getting-started-with-express)
 + [Express JS Tutorial: Part 04, Routes](http://youtu.be/Hc3v6wbmebQ)
++ [Understanding Backbone.js](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md)
 
 ### Videos
 + [Intro to Node.js with Ryan Dahl](http://www.youtube.com/watch?v=jo_B4LTHi3I)
