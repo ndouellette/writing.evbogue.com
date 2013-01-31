@@ -8,6 +8,8 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
 
+Jan 31 2013 | [Why Ray Kurzweil should hire me at his unlimited budget Google-AI taskforce](/posts/ai)
+
 Jan 30 2013 | [What you should know about tech at the beginning of 2013](/posts/tech2013)
 
 Jan 29 2013 | [I sent a resume](/posts/coinbase) to [Coinbase](http://coinbase.com)
