@@ -7,9 +7,9 @@ tags: ['ai', 'singularity', 'resumes']
 
 I'm still waiting to [hear back from Coinbase](/posts/coinbase). So I figured, why not write another resume and cover letter.
 
-We all know Google stock will be worth $25 by this time next year. But right now, it's the promised land. In fact, the company has so much promise that Ray Kurzweil, the future creator of the singularity itself, has gone to work there on creating AI. And he has an [unlimited budget](http://techcrunch.com/2013/01/03/imagining-the-future-ray-kurzweil-has-unlimited-resources-for-ai-language-research-at-google/). 
+We all know Google stock will be worth less than 25 BTC by this time next year. But right now, most people think Google is still the promised land. In fact, the company has so much promise that Ray Kurzweil, the future creator of the singularity itself, has gone to work there on creating AI. And he has an [unlimited budget](http://techcrunch.com/2013/01/03/imagining-the-future-ray-kurzweil-has-unlimited-resources-for-ai-language-research-at-google/). 
 
-For those of you who've been living under a rock since 1985, the promise of AI is simple: It will think faster, better, and more than you can about everything. So much so that Google will be able to trick you into clicking on many more ads than you currently do. Thus making more money than you do. Until all of the current government-issued currency is piled high on Google's stock ticker, causing hyperinflation at an exponential velocity.
+For those of you who've been living under a rock since 1985, the premise of AI is simple: It will think faster, better, and more than you can about everything. So much so that Google will be able to trick you into clicking on many more ads than you currently do. Thus making more money than you do. Until all of the current government-issued currency is piled high on Google's stock ticker, causing hyperinflation at an exponential velocity.
 
 Well, the way I see it, the only way to save the human race is to hire me at Ray Kurzweil's unlimited budget AI-creating task force at Google. If only so I can regularly leak the git repository for AI to you, my few dozen readers, the only free humans left on planet earth.
 
