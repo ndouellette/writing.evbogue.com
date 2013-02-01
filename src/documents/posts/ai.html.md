@@ -29,7 +29,7 @@ Here are a few simple reasons why I'd be perfect for Ray Kurzweil's AI taskforce
 + I will guarantee that you can run your own personal AI on your PMD (personal mesh device) and thus maintain distributed checks-and-balances. As this is the only way to make sure the human race doesn't get edit-undo-ed from the face of the Earth the minute the cylons are invented at Google.
 + I will convert as much of Ray Kurzweil's unlimited budget into Bitcoins.
 
-Finally, we all know Google is where talented developers go to die. So I promise, even if I'm hired at Google, I will continue to write whatever is on my heart, even as the memos come down from Google's monsterous PR team, to stop writing stuff we don't want you, the public, to hear about. 
+Finally, we all know Google is where talented developers go to vanish forever into oblivion. So I promise, even if I'm hired at Google, I will continue to write whatever is on my heart, even as the memos come down from Google's monsterous PR team, to stop writing stuff we don't want you, the public, to hear about. 
 
 If I can't have free speech and also get hired at Google, well then, frak me with a paranoid sentient android. I'll keep waiting to hear back from Coinbase.
 
