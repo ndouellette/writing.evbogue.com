@@ -23,15 +23,11 @@ So why would you want such a free thinking downer working at Google's unlimited 
 
 Here are a few simple reasons why I'd be perfect for Ray Kurzweil's AI taskforce.
 
-I will look out for the best interests of humanity as we launch ourselves towards the point of no-return. As we jump headfirst at warp speed into the singularity, I will make sure the source code is available for all Githubbers to see, check for bugs, and malicious mind-controlling algorithms.
-
-I will make sure ad-block is enabled. And cannot be disabled.
-
-I will make sure you get access to a terminal window, where you can quickly hit kill all on the AI processes, should they become self aware and try to kill you.
-
-I will guarantee that you can run your own personal AI on your PMD (personal mesh device) and thus maintain distributed checks-and-balances. As this is the only way to make sure the human race doesn't get edit-undo-ed from the face of the Earth the minute the cylons are invented at Google.
-
-I will convert as much of Ray Kurzweil's unlimited budget into Bitcoins.
++ I will look out for the best interests of humanity as we launch ourselves towards the point of no-return. As we jump headfirst at warp speed into the singularity, I will make sure the source code is available for all Githubbers to see, check for bugs, and malicious mind-controlling algorithms.
++ I will make sure ad-block is enabled. And cannot be disabled.
++ I will make sure you get access to a terminal window, where you can quickly hit kill all on the AI processes, should they become self aware and try to kill you.
++ I will guarantee that you can run your own personal AI on your PMD (personal mesh device) and thus maintain distributed checks-and-balances. As this is the only way to make sure the human race doesn't get edit-undo-ed from the face of the Earth the minute the cylons are invented at Google.
++ I will convert as much of Ray Kurzweil's unlimited budget into Bitcoins.
 
 Finally, we all know Google is where talented developers go to die. So I promise, even if I'm hired at Google, I will continue to write whatever is on my heart, even as the memos come down from Google's monsterous PR team, to stop writing stuff we don't want you, the public, to hear about. 
 
