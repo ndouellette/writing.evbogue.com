@@ -43,3 +43,5 @@ Everyone who works at Google loves Google too much to watch it end up like AOL a
 If you know someone who can hire me for this positon at Google, please forward this post to them.
 
 Google, you can reach me at ev@evbogue.com. I deleted my gmail account.
+
+I know no one wants to fire Chris Messina. Let it be me.
