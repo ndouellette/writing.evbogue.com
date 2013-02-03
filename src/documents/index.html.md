@@ -8,6 +8,8 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
 
+Feb 03 2013 | [Hire me at Google to fire people hiding in corners](/posts/googlecorners)
+
 Feb 02 2013 | [Crytter](http://github.com/substack/crytter) me: "curl -X POST -d 'yourmessage' crytter.evbogue.com/yourname"
 
 Jan 31 2013 | [Why Ray Kurzweil should hire me at his unlimited budget Google-AI taskforce](/posts/ai)
