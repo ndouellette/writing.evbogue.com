@@ -4,7 +4,7 @@ date: Sun Feb  3 09:39:16 EST 2013
 layout: post
 ---
 
-I'm still waiting to here back from Coinbase. So I figured, why not write another resume?
+I'm still waiting to here [back from Coinbase](/posts/coinbase). So I figured, why not write another resume?
 
 I already have [one job application](/posts/ai) in to Google, why not submit another? We all know Google is now a massive sprawling company where no one knows who is doing what. And this is exactly what I hope to solve.
 
