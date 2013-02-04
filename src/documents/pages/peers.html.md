@@ -22,3 +22,4 @@ Here's the rule: distributed peer to peer sites only. No crappy centralized soci
 + Your name here | Your website here
 + Ev Bogue | [evbogue.com](http://evbogue.com/)
 + Gwen Bell | [gwenbell.com](http://gwenbell.com/)
++ Tomasz Jadowski | [tomasz.jadowski.net](https://tomasz.jadowski.net/)
