@@ -4,6 +4,8 @@ date: Tue Jan 29 03:50:44 EST 2013
 layout: post
 ---
 
+_[Update Feb 5 2013] This post [trended on Bitcoin Reddit](http://www.reddit.com/r/Bitcoin/comments/17wuvy/why_coinbase_should_hire_me/). I heard back from Coinbase. Brian was really cool about it, but cannot hire me until I become a supercoder. My new mission in life: become a supercoder. Coinbase is still looking for supercoders, if you are one, please apply to [Coinbase](http://coinbase.com/)._ 
+
 This is the first in a series of posts I'm writing to get myself out of Gwen's grandmother's basement in NC and into the world of the living. 
 
 By world of the living, I mean to San Francisco.
