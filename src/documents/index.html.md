@@ -8,6 +8,8 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
 
+Feb 06 2013 | [Function types in Go](http://jordanorelli.tumblr.com/post/42369331748/function-types-in-go-golang)
+
 Feb 03 2013 | [Hire me at Google to fire people hiding in corners](/posts/googlecorners)
 
 Feb 02 2013 | [Crytter](http://github.com/substack/crytter) me: "curl -X POST -d 'yourmessage' crytter.evbogue.com/yourname"
