@@ -8,7 +8,7 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
 
-Feb 06 2013 | [Function types in Go](http://jordanorelli.tumblr.com/post/42369331748/function-types-in-go-golang)
+Feb 06 2013 | I'm starting to fall for go : [Function types in Go](http://jordanorelli.tumblr.com/post/42369331748/function-types-in-go-golang)
 
 Feb 03 2013 | [Hire me at Google to fire people hiding in corners](/posts/googlecorners)
 
