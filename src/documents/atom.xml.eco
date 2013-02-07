@@ -13,10 +13,10 @@
   <% for document in @getCollection('posts').toJSON(): %>
     <entry>
       <title><%= document.title %></title>
-      <link href="<%= @site.url+'/'+document.url %>"/>
+      <link href="<%= @site.url+document.url %>"/>
       <updated><%= document.date.toISOString() %></updated>
       <id><%= @site.url+'/'+document.url %></id>
-      <content type="html"><%= document.contentRendered %></content>
+      <content type="html"><%= document.contentRenderedWithoutLayout %></content>
     </entry>
   <% end %>
 </feed>
