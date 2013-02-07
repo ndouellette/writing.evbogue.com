@@ -6,7 +6,9 @@ title: 'Stream'
 Stream
 ------
 
-<p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
+<p class="lead">Hardcoded feed until we invent distributed peer-to-peer social. [Become a peer](/pages/peers)</p>
+
+Feb 07 2013 | Dominic Tarr on [distributed systems for real-time apps](https://www.youtube.com/watch?feature=endscreen&NR=1&v=svkdmP9UcLo)
 
 Feb 07 2013 | [Dominic Tarr, Node.js Wizard](https://www.youtube.com/watch?v=giS-aIq0Kaw) at [Node Dublin](https://www.youtube.com/user/NodeDublin?feature=watch)
 
