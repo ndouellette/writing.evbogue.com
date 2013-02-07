@@ -8,6 +8,10 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed p2p social.</p>
 
+Feb 07 2013 | [Dominic Tarr, Node.js Wizard](https://www.youtube.com/watch?v=giS-aIq0Kaw) at [Node Dublin](https://www.youtube.com/user/NodeDublin?feature=watch)
+
+Feb 07 2013 | [Max Ogden](http://maxogden.com/) on [distributed open source collaboration](http://www.youtube.com/watch?v=UcDrxXKf4qg).
+
 Feb 06 2013 | I'm starting to fall for [Go](http://golang.org/) : [Function types in Go](http://jordanorelli.tumblr.com/post/42369331748/function-types-in-go-golang)
 
 Feb 03 2013 | [Hire me at Google to fire people hiding in corners](/posts/googlecorners)
