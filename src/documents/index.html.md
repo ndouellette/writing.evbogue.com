@@ -6,7 +6,9 @@ title: 'Stream'
 Stream
 ------
 
-<p class="lead">Hardcoded feed until we invent distributed peer-to-peer social. [Become a peer](/pages/peers)</p>
+<p class="lead">Hardcoded feed until we invent distributed peer-to-peer social. [Peer with me](/pages/peers).</p>
+
+Feb 07 2013 | OH! and one more, [Dominic Tarr at CascadiaJS](https://www.youtube.com/watch?v=ivqI5IZlPRc)
 
 Feb 07 2013 | Dominic Tarr on [distributed systems for real-time apps](https://www.youtube.com/watch?feature=endscreen&NR=1&v=svkdmP9UcLo)
 
