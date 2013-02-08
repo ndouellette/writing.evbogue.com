@@ -8,6 +8,8 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed peer-to-peer social. [Peer with me](/pages/peers).</p>
 
+Feb 08 2013 | I will return to Apple to invent the [Macbook Carbon](/posts/macbookcarbon)
+
 Feb 07 2013 | OH! and one more, [Dominic Tarr at CascadiaJS](https://www.youtube.com/watch?v=ivqI5IZlPRc)
 
 Feb 07 2013 | Dominic Tarr on [distributed systems for real-time apps](https://www.youtube.com/watch?feature=endscreen&NR=1&v=svkdmP9UcLo)
