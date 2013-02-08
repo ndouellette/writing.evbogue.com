@@ -4,11 +4,11 @@ date: Feb  8 08:37:15 EST 2013
 layout: post
 ---
 
-We all know Apple is lost. Tim Cook doesn't know anything about designing computers. Everyone is pretending to love the Apple product releases. 
+We all know Apple is lost. Tim Cook doesn't know anything about designing computers. Everyone is pretending to love Apple product releases. 
 
 Being enthusiastic about Apple products is so ingrained in our muscle memory, most people can't help but salivate over the junk Apple puts out.
 
-Apple hasn't done anything remarkable since Steve Jobs died. 
+But let's face it, Apple hasn't done anything remarkable since Steve Jobs died. 
 
 It's time to start innovating again.
 
@@ -36,7 +36,7 @@ Next, I will do what [I promised to do at Google](/posts/googlecorners). Find ev
 
 Then, in a surprising turn of events, all new Mac products will be installed with the free and open Linux distribution Ubuntu. Because it's better than Mac OS X, and Apple only uses the best.
 
-The next product in the lineup, I can't tell you about. But it will change everything. (Hint, it involves mesh networking.)
+The next product in the lineup, I can't tell you about. But it will change everything. (Hint, it involves [mesh networking](https://projectmeshnet.org/).)
 
 So I leave you (the shareholders, board members, and disgruntled employees at Apple Computer) with this message... 
 
