@@ -24,7 +24,7 @@ For the past two years, Apple has only kept its marketshare by throwing lawyers 
 
 I haven't wanted to buy an Apple product in over two years. The last Apple product I bought was an 11" Macbook Air. The computer I want is made out of carbon fiber. If the people who are making the decision at Apple won't release it, then you will have to hire me to make the decisions for them.
 
-Here's the plan. 
+Here's the plan.
 
 Step 1. Purchase Gigabyte, and thus the rights to release the Macbook Carbon in the United States.
 
@@ -49,3 +49,5 @@ The Macbook Carbon awaits.
 You only have a few hard decisions to make.
 
 When you've made up your minds, please send my private helicopter with the equivilent of 1 billion USD in Bitcoins to rescue me from this basement in North Carolina. 
+
+<img src="http://www.techrockstar.com/wp-content/uploads/2012/06/Gigabyte-X11-3.jpg" class="img-polaroid" />
