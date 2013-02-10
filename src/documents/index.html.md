@@ -20,8 +20,6 @@ Feb 06 2013 | I'm starting to fall for [Go](http://golang.org/) : [Function type
 
 Feb 03 2013 | [Hire me at Google to fire people hiding in corners](/posts/googlecorners)
 
-Feb 02 2013 | [Crytter](http://github.com/substack/crytter) me: "curl -X POST -d 'yourmessage' crytter.evbogue.com/yourname"
-
 Jan 31 2013 | [Why Ray Kurzweil should hire me at his unlimited budget Google-AI taskforce](/posts/ai)
 
 Jan 30 2013 | [What you should know about tech at the beginning of 2013](/posts/tech2013)
