@@ -14,7 +14,6 @@ I've been obsessed with [Node.js](http://nodejs.org/) since mid-2012 when I star
 
 + [docpad.evbogue.com](http://docpad.evbogue.com) - Node.js for words - [source](https://github.com/evbogue/docpad.evbogue.com)
 + [hummingbird.evbogue.com](http://hummingbird.evbogue.com) - Node.js real time stats - [source](https://github.com/evbogue/hummingbird)
-+ [crytter.evbogue.com](http://crytter.evbogue.com) - basic distributed peer to peer social - [source](https://github.com/substack/crytter)
 + [subway.evbogue.com](http://subway.evbogue.com) - Node.js IRC server - [source](https://github.com/thedjpetersen/subway)
 
 ### Node.js things of interest
