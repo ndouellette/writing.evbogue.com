@@ -1,11 +1,10 @@
 ---
-title: 2013: deploy
+title: 2013 is the year of deploy
+
 layout: post
 tags: ['deploy','node', 'development']
 date: Jan 18 18:06:35 EST 2013
 ---
-
-2013 is the year of deploy
 
 Deploy is a new word in my vocabulary. Up until around six months ago, it was something I thought soldiers did in parts of the world the United States army shouldn't be. Now, it's taken on a whole new meaning. 
 
