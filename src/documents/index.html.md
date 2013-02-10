@@ -12,10 +12,6 @@ Feb 09 2013 | Where I'll work: [New York or San Francisco](/posts/nycsf)
 
 Feb 08 2013 | I will return to Apple to invent the [Macbook Carbon](/posts/macbookcarbon)
 
-Feb 07 2013 | OH! and one more, [Dominic Tarr at CascadiaJS](https://www.youtube.com/watch?v=ivqI5IZlPRc)
-
-Feb 07 2013 | Dominic Tarr on [distributed systems for real-time apps](https://www.youtube.com/watch?feature=endscreen&NR=1&v=svkdmP9UcLo)
-
 Feb 07 2013 | [Dominic Tarr, Node.js Wizard](https://www.youtube.com/watch?v=giS-aIq0Kaw) at [Node Dublin](https://www.youtube.com/user/NodeDublin?feature=watch)
 
 Feb 07 2013 | [Max Ogden](http://maxogden.com/) on [distributed open source collaboration](http://www.youtube.com/watch?v=UcDrxXKf4qg).
@@ -65,9 +61,5 @@ Jan 05 2013 | "<a href="http://youtu.be/4XpnKHJAok8?t=10m57s">If you're not dist
 Jan 03 2013 | Reading <a href="http://www.theatlantic.com/magazine/archive/2013/01/whats-inside-americas-banks/309196/">What's Inside American Banks?</a>
 
 Jan 01 2013 | Reading <a href="http://www.kk.org/thetechnium/archives/2013/01/the_post-produc.php">The Post-productive economy</a> by Kevin Kelly
-
-Dec 31 2012 | Uploading <a href="https://github.com/visionmedia">TJ Holowaychuk</a>'s brain
-
-Dec 31 2012 | Committing <a href="http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start">Structure and Interpretation of Computer Programs</a> to <a href="https://github.com/evbogue/thenodebook">The Node Book</a>
 
 Dec 29 2012 | Watching <a href="https://www.youtube.com/watch?v=QNsePZj_Yks">Not my department</a> Jacob Appelbaum keynote @ 29c3 
