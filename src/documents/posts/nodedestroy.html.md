@@ -1,5 +1,5 @@
 ---
-title: Node.js is going to destroy your startup.
+title: Node.js is going to destroy your startup
 layout: post
 date: Thu Feb 14 11:35:25 EST 2013
 ---
