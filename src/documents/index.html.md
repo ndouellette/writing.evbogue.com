@@ -8,6 +8,8 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed peer-to-peer social. [Peer with me](/pages/peers).</p>
 
+Feb 14 2013 | [Node.js is coming to destroy your startup](/posts/nodedestroy)
+
 Feb 13 2013 | You might catch me on [WebRTC](https://apprtc.appspot.com/)
 
 Feb 09 2013 | Where I'll work: [New York or San Francisco](/posts/nycsf)
