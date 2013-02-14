@@ -8,6 +8,8 @@ Stream
 
 <p class="lead">Hardcoded feed until we invent distributed peer-to-peer social. [Peer with me](/pages/peers).</p>
 
+Feb 13 2013 | You might catch me on my WebRTC channel: [https://apprtc.appspot.com/?r=evbogue](https://apprtc.appspot.com/?r=evbogue)
+
 Feb 09 2013 | Where I'll work: [New York or San Francisco](/posts/nycsf)
 
 Feb 08 2013 | I will return to Apple to invent the [Macbook Carbon](/posts/macbookcarbon)
