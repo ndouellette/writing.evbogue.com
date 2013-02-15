@@ -12,7 +12,7 @@ I've scaled up my lifestyle to living in a hotel in Mexico overlooking the water
 
 I like living this way. It gives me a lot of flexibility to go where I want. It also lets me take bigger risks, and fail harder than most people. It lets me succeed bigger, and enjoy my successes more than most people, too.
 
-I bought the bag I have from Mission Workshop in San Francisco in 2011, on my way to Mexico. Maren Kate was there when I bought it. This was before she hit the big jackpot with Zirtual.
+I bought the bag I have from [Mission Workshop](http://missionworkshop.com/) in San Francisco in 2011, on my way to Mexico. [Maren Kate](http://www.escapingthe9to5.com/) was there when I bought it. This was before she hit the [jackpot with Zirtual](http://zirtual.com/blog/zirtual-virtual-assistant-marketplace-matches-busy-professionals-with-executive-assistants-press-release/).
 
 I was staying at a hostel in the Tenderloin. I transferred all of my stuff that would fit to the new container, and gave the rest to the people at the hostel.
 
