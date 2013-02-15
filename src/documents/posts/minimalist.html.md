@@ -28,7 +28,7 @@ But it is that hard. That's why people keep asking me for advice on how to do it
 
 People get really attached to their shit. I can't figure out why, which probably means the part of my brain that gets attached to shit is damaged. Or perhaps I have aspergers. Maybe I'm just really good at mourning the loss. I'm not sure, you tell me.
 
-Regardless, you shouldn't be jealous of me. I lived in a hotel two years ago for a month. I was homeless a few months ago. Things change, but one things stays the same. I still live out of a bag.
+Regardless, you shouldn't be jealous of me. I lived in a hotel two years ago for a month. I was homeless a few months ago. Things change, but one thing stays the same. I still live out of a bag.
 
 The reason I don't write about minimalism anymore is twofold. One, I've outgrown talking about it - I just live it. Two, living like this has in the past overshadowed everything else in my life. Living out of a bag is so unique, people want to put me on the news and stuff. And they have.
 
