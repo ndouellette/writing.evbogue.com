@@ -23,3 +23,4 @@ Here's the rule: distributed peer to peer sites only. No crappy centralized soci
 + Ev Bogue | [evbogue.com](http://evbogue.com/)
 + Gwen Bell | [gwenbell.com](http://gwenbell.com/)
 + Tomasz Jadowski | [tomasz.jadowski.net](https://tomasz.jadowski.net/)
++ Motyar | [motyar.blogspot.com](http://motyar.blogspot.com/ncr)
