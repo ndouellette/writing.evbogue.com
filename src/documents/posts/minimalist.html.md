@@ -34,7 +34,7 @@ The reason I don't write about minimalism anymore is twofold. One, I've outgrown
 
 But no one wants to put you on the news when you run out of money and can't find a place to sleep, let alone get access to drinking water in the middle of the night, in a town full of people who consider themselves to be rich.
 
-I live like this because it lets me experience the ups and downs of success and failure. It gives me the freedom to take risks, such as shutting down my old businesses, or deleting my old world in order to see what comes next.
+I live like this because it lets me experience the ups and downs of success and failure. It gives me the freedom to take risks, such as shutting down my old businesses, or deleting my old work in order to see what comes next.
 
 So you want to know the secret art of being minimalist?
 
