@@ -14,6 +14,6 @@ Clouds are in the sky. Sometimes they rain.
 
 This matters to me, because. I like to be able to delete my shit. When I want to. So I don't keep it in clouds anymore. When I want to give you access to my data, I use commit it to Git and then distribute it. Not to a cloud, but it a specific virtual machine on a specific server (in my case, somewhere in Frankfurt, Germany) that I pay for. Then you can access it by typing in the IP address or a reference to that IP address.
 
-This is how computers actually work. Not how people want you to think about computers, so they can sell your shit back to you.
+This is how computers actually work. Not how people who want to squeeze your brain for dollars want you to think about computers, so they can sell your shit back to you.
 
-I don't use Clouds. Because I think they're bullshit.
+I don't use 'Clouds'. Because I think they're bullshit.
