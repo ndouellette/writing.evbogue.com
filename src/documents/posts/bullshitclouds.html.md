@@ -1,5 +1,5 @@
 ---
-title: The cloud is a bunch of bullshit
+title: The cloud is bullshit
 date: Fri Feb 22 13:54:38 EST 2013
 layout: post
 ---
