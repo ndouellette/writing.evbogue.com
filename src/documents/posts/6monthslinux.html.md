@@ -6,13 +6,13 @@ layout: post
 
 For the past six months, I used Ubuntu as the only operating system on my computer. A Macbook Air. Or, as they say in the Linux world: an MBA. 
 
-A day ago, I bricked my MBA trying to switch from Ubuntu to Debian. I wanted to get 'more hardcore' but ended up reinstalling Mac OS X. So now, I'm rocking Snow Lion. Just like everyone else. I figure I'll stay here until I'm motivated to move back to Linux, or perhaps life will take me in another direction.
+A day ago, I bricked my MBA trying to switch from Ubuntu to Debian. I wanted to get 'more hardcore' but ended up reinstalling Mac OS X. So now, I'm rocking Mountain Lion. Just like everyone else. I figure I'll stay here until I'm motivated to move back to Linux, or perhaps life will take me in another direction.
 
 In many ways, using Ubuntu for six months was a detox. I compare it to trying to be vegan for a year -- hard work, but it really cleans your body out. It brought me closer in touch with the roots of the computer(s) I use every day. I learned more in the past six months than I have in a long while.
 
 Here are a few observations from my six-month Linux retreat.
 
-1. Git is brilliant. I barely knew about Git before I switched to Linux. Now, I use it every day. The first thing I installed on my brand-new copy of Snow Lion was Git. I use Git for everything now. Pretty much all of my data is being stored in Git. All of the content on this website is version controlled. I can move through space/time and watch how this site evolves. 
+1. Git is brilliant. I barely knew about Git before I switched to Linux. Now, I use it every day. The first thing I installed on my brand-new copy of Mountain Lion was Git. I use Git for everything now. Pretty much all of my data is being stored in Git. All of the content on this website is version controlled. I can move through space/time and watch how this site evolves. 
 
 2. Hello again, command line. I used to use the command line a lot on Mac OS X. But over the years, the GUI got farther and farther away from it. Now that I'm back on the Mac, I've found myself using the bash more. 
 
