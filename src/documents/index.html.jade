@@ -1,0 +1,15 @@
+--- 
+layout: 'default'
+title: 'Writing'
+---
+
+h1 Writing
+
+
+nav.linklist
+  each doc in getCollection('posts').toJSON()
+    p
+      span= doc.date.toShortDateString()
+      |  |&nbsp;
+      a(href=doc.url)= doc.title
+
