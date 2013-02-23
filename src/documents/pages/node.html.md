@@ -12,7 +12,7 @@ I've been obsessed with [Node.js](http://nodejs.org/) since mid-2012 when I star
 
 ### Node.js servers deployed
 
-+ [docpad.evbogue.com](http://docpad.evbogue.com) - Node.js for words - [source](https://github.com/evbogue/docpad.evbogue.com)
++ [writing.evbogue.com](http://writing.evbogue.com) - Where I publish - [source](https://github.com/evbogue/writing.evbogue.com)
 + [hummingbird.evbogue.com](http://hummingbird.evbogue.com) - Node.js real time stats - [source](https://github.com/evbogue/hummingbird)
 + [subway.evbogue.com](http://subway.evbogue.com) - Node.js IRC server - [source](https://github.com/thedjpetersen/subway)
 
@@ -21,17 +21,11 @@ I've been obsessed with [Node.js](http://nodejs.org/) since mid-2012 when I star
 + [Express](http://expressjs.com/)
 + [Jade](http://jade-lang.com/)
 + [Stylus](http://learnboost.github.com/stylus/)
-+ [Docpad](http://docpad.org)
 
 ### Learn Javascript
 
 + [Eloquent Javascript](http://eloquentjavascript.net/)
-+ [Codecademy](http://codecademy.com/)
 + [Learning to Love Javascript at Google I/O 2011](https://www.youtube.com/watch?v=seX7jYI96GE)
-
-### Learn to Program
-
-+ [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
 ### Learn Node.js
 
