@@ -3,13 +3,6 @@ layout: 'default'
 title: 'Writing'
 ---
 
-h1 Writing
+h1 Stream
 
-
-nav.linklist
-  each doc in getCollection('posts').toJSON()
-    p
-      span= doc.date.toShortDateString()
-      |  |&nbsp;
-      a(href=doc.url)= doc.title
-
+include stream.md
