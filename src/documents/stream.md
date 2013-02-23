@@ -1,3 +1,5 @@
+Feb 23 2013 | Went into town today, and everyone is buying things again. [QE](https://en.wikipedia.org/wiki/Quantitative_easing)-unlimited bitchz!
+
 Feb 22 2013 | Reading [Learning Go](http://www.miek.nl/projects/)
 
 Feb 22 2013 | [The cloud is bullshit](http://writing.evbogue.com/posts/bullshitclouds)
