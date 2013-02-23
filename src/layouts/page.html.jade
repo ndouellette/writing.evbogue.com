@@ -2,5 +2,10 @@
 layout: default
 ---
 
-article#page.page
-  .page-content!= content
+
+.row
+  .span8
+    article#page.page
+      .page-content!= content
+  .span4
+    include sidebar.jade

@@ -1,16 +1,16 @@
 
 .navbar.navbar-fixed-top
-	.navbar-inner
-		.container
-			.row
-				.span12
-					a.brand(href="http://evbogue.com/") Evbogue.com
-					ul.nav
-						li  
-							a(href='http://stream.evbogue.com/')  Stream
-						li
-							a.active(href='http://writing.evbogue.com') Writing
-
-					ul.nav.pull-right
-						li <a href="http://github.com/evbogue"><i class="icon-github-alt"></i></a> 
-						li <a href="mailto:ev@evbogue.com"><i class="icon-envelope"></i></a> 		
+      .navbar-inner
+        .container
+          .row
+            .span12
+              a.brand(href="/") Evbogue.com
+              ul.nav
+                each doc in getCollection('pages').toJSON()
+                  - clazz = (document.url === doc.url) ? 'active' : null
+                  li(typeof="sioc:Page", about=doc.url, class=clazz)
+                    a(href=doc.url, property="dc:title")= doc.title  
+              ul.nav.pull-right
+                li <a href="http://github.com/evbogue"><i class="icon-github-alt"></i></a> 
+                li <a href="mailto:ev@evbogue.com"><i class="icon-envelope"></i></a> 
+                li <a href="/atom.xml"><i class="icon-rss"></i></a>
