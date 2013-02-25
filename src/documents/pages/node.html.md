@@ -27,7 +27,9 @@ Here's a very basic Hello World Node.js HTTP server. You'll see various examples
 
 	console.log('Server running at http://localhost:3000');
 
-Go ahead and install [Node.js](http://nodejs.org). To run this app, save it in a text file called helloworld.js. Then use your terminal to start the server like so:
+Go ahead and install [Node.js](http://nodejs.org/download/). 
+
+To run this app, save it in a text file called helloworld.js. Then use your terminal to start the server like so:
 
 	$ node helloworld.js
 
