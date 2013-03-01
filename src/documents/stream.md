@@ -1,3 +1,5 @@
+March 1 2013 | Deploy! Or die.
+
 Feb 25 2013 | Writing: [Evolve beyond reach on Hyperboria](/posts/hyperboria)
 
 Feb 23 2013 | Follow me on Hyperboria [http://socialno.de/ev](http://socialno.de/ev)
