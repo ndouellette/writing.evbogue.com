@@ -1,4 +1,4 @@
-March 1 2013 | Deploy! Or die.
+March 1 2013 | I have nothing to say today.
 
 Feb 25 2013 | Writing: [Evolve beyond reach on Hyperboria](/posts/hyperboria)
 
