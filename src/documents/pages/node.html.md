@@ -64,7 +64,7 @@ Navigate to [http://localhost:3000](http://localhost:3000) and you'll see a simi
 Right now, I have 
 
 + [writing.evbogue.com](http://writing.evbogue.com) - Where I publish - [source](https://github.com/evbogue/writing.evbogue.com)
-+ [hummingbird.evbogue.com](http://hummingbird.evbogue.com) - Node.js real time stats - [source](https://github.com/evbogue/hummingbird)
+
 + [subway.evbogue.com](http://subway.evbogue.com) - Node.js IRC server - [source](https://github.com/thedjpetersen/subway)
 
 ### Node.js things of interest
