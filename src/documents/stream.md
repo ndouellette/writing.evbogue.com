@@ -1,3 +1,5 @@
+March 3 2013 | Surprised how many people reading this site came over to Hyperboria. It's like a little reunion!
+
 March 1 2013 | I have nothing to say today.
 
 Feb 25 2013 | Writing: [Evolve beyond reach on Hyperboria](/posts/hyperboria)
