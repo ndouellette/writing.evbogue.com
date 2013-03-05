@@ -1,4 +1,6 @@
-March 5th 2013 | Headed to New York City next weekish! Grateful to be able to stay at [The Schoolhouse](http://brooklyn-spaces.com/2011/09/the-schoolhouse/) for a bit on arrival. 
+March 5 2013 | [Global Bitcoin Nodes](https://blockchain.info/nodes-globe?series=onlineNow)
+
+March 5 2013 | Headed to New York City next weekish! Grateful to be able to stay at [The Schoolhouse](http://brooklyn-spaces.com/2011/09/the-schoolhouse/) for a bit on arrival. 
 
 March 3 2013 | Surprised how many people reading this site came over to Hyperboria. It's like a little reunion!
 
