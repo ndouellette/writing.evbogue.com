@@ -1,3 +1,5 @@
+March 6 2013 | Reading Steve Job's biography. It's inspiring me to communicate more violently.
+
 March 5 2013 | [Global Bitcoin Nodes](https://blockchain.info/nodes-globe?series=onlineNow)
 
 March 5 2013 | Headed to New York City next weekish! Grateful to be able to stay at [The Schoolhouse](http://brooklyn-spaces.com/2011/09/the-schoolhouse/) for a bit on arrival. 
