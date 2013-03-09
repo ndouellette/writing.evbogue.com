@@ -1,3 +1,5 @@
+March 8 2013 | Who would have thought the Bitcoins I got 6 months ago would turn into the seed round of funding I need to return to NYC?
+
 March 8 2013 | [Runnable.com](http://runnable.com/). Like jsfiddle, but full stack with Node.js and Express.
 
 March 7 2013 | Who all is in New York City? Give me a [shout](mailto:ev@evbogue.com)
