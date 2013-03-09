@@ -1,3 +1,5 @@
+March 9th 2013 | [Wrapping up at the edge of tomorrow](/posts/wrapping)
+
 March 8 2013 | Who would have thought the Bitcoins I got 6 months ago would turn into the seed round of funding I need to return to NYC?
 
 March 8 2013 | [Runnable.com](http://runnable.com/). Like jsfiddle, but full stack with Node.js and Express.
