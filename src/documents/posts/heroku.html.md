@@ -24,9 +24,8 @@ Having a VPS is like using city water instead of metered water. It just flows fo
 
 So stop whining about Heroku, and start learning how to interact with a real VPS.
 
-If you have any questions about how to use a VPS, feel free to email me. 
+If you have any questions about how to use a VPS, feel free to [email me](mailto:ev@evbogue.com). 
 
-Five minutes with me will save you a shit-ton of money and time wasted trying to use a PaaS.
+Five minutes with me could save you lot of money deploying.
 
 Bonus: you can buy VPS with Bitcoin. I do.
-
