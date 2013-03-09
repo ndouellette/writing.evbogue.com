@@ -1,5 +1,5 @@
 ---
-title: Why would you ever use Heroku...
+title: Why would you ever use Heroku
 date: Sat Mar  9 15:41:43 EST 2013
 layout: post
 ---
@@ -12,7 +12,7 @@ There's been a big controversy about Heroku for the past month or so. You can fi
 
 This begs the question, which I would like to bring up with you right now:
 
-Why would you ever use Heroku...
+Why would you ever use Heroku
 
 When I first realized I needed to deploy tiny little Node.js web servers to the Internet, I also tried Heroku (and all of the other services that do the same thing). Trying to use it involved an endless wrestling match with their server-side interface. Never mind the fact that they're trying to upsell you on all sorts of things you could install on a VPS in five minutes.
 
