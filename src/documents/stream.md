@@ -1,4 +1,4 @@
-March 10th 2013 | [Why would you ever use Heroku...](/posts/heroku)
+March 10th 2013 | [Why would you ever use Heroku](/posts/heroku)
 
 March 9th 2013 | [Wrapping up at the edge of tomorrow](/posts/wrapping)
 
