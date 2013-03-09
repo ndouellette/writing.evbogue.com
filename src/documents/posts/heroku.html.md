@@ -10,7 +10,7 @@ This begs the question, which I would like to bring up with you right now:
 
 Why would you ever use Heroku...
 
-When I first realized I needed to deploy tiny little Node.js web servers to the Internet, I also tried Heroku (and all of the other services that do the same thing). I found it (and them) endlessly skeezy. Trying to use it envolved and endless wrestling match with their server-side interface. Never mind the fact that they're constantly trying to upsell you on all sorts of things you could install on a VPS in five minutes.
+When I first realized I needed to deploy tiny little Node.js web servers to the Internet, I also tried Heroku (and all of the other services that do the same thing). Trying to use it envolved and endless wrestling match with their server-side interface. Never mind the fact that they're constantly trying to upsell you on all sorts of things you could install on a VPS in five minutes.
 
 Yes, Heroku's branding is kind of cool (but also distracting, after the initial honeymoon is over). But do you believe branding?
 
