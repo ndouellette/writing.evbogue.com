@@ -20,4 +20,6 @@ This spring was a turmultous time, but it was also refreshing. The old guard qui
 
 And all because one idiot designer at a certain blue company decided he wanted a more beautiful website for a large userbase of overweight low-IQ people who could appreciate good design if it smacked them in the face.
 
+"Good design only has power over sophisticated people, you idiot." shouted the CEO from his corner office.
+
 Congratulations, America. You are free. Now you need a deployable personal website that doesn't look like shit.
