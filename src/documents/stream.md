@@ -1,6 +1,10 @@
-March 10th 2013 | [Why would you ever use Heroku](/posts/heroku)
+March 10 2013 | Github is being DDoSed because it complied with copyright trolls (in other words, had not balls). Come join us at [Gitboria](http://gitboria/) on [Hyperboria](http://hyperboria.net)
 
-March 9th 2013 | [Wrapping up at the edge of tomorrow](/posts/wrapping)
+March 10 2013 | [Freed from the algorithm](/posts/algorithm)
+
+March 9 2013 | [Why would you ever use Heroku](/posts/heroku)
+
+March 8 2013 | [Wrapping up at the edge of tomorrow](/posts/wrapping)
 
 March 8 2013 | Who would have thought the Bitcoins I got 6 months ago would turn into the seed round of funding I need to return to NYC?
 
