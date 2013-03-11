@@ -1,3 +1,5 @@
+March 11 2013 | [Why I don't write books anymore](/posts/books)
+
 March 10 2013 | If you're having trouble accessing Github during a DDoS attack, come join us at [Gitboria](http://gitboria/) on [Hyperboria](http://hyperboria.net)
 
 March 10 2013 | [Freed from the algorithm](/posts/algorithm)
