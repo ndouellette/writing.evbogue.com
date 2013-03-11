@@ -22,6 +22,4 @@ The nut graf of the book is the cover. The trouble is, social media wasn't bulls
 
 Books existed to solve problems, but now problems are solved too fast for books. 
 
-The only option is in-persons or over-WebRTCs and deployment. 
-
 Get it? If not, go read an out-of-date book.
