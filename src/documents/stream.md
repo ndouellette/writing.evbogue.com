@@ -1,4 +1,4 @@
-March 10 2013 | Github is being DDoSed because it complied with copyright trolls (in other words, had no balls). Come join us at [Gitboria](http://gitboria/) on [Hyperboria](http://hyperboria.net)
+March 10 2013 | If you're having trouble accessing Github during a DDoS attack, come join us at [Gitboria](http://gitboria/) on [Hyperboria](http://hyperboria.net)
 
 March 10 2013 | [Freed from the algorithm](/posts/algorithm)
 
