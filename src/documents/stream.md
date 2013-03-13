@@ -1,3 +1,5 @@
+March 12 2013 | [Real-time vs the static web](/posts/realtime)
+
 March 12 2013 | New York City, here I come. RDU > JFK, inbound in a few hours.
 
 March 11 2013 | [Why I don't write books anymore](/posts/books)
