@@ -6,7 +6,7 @@ layout: post
 
 It's good to be back in Brooklyn. 
 
-I first moved to Brooklyn after my sophemore year at NYU. The first neighborhood I moved into was Williamsburg. I shared a $650-each apartment off the Graham Ave L-train for three years. This would be a home for three years. 
+I first moved to Brooklyn after my sophomore year at NYU. The first neighborhood I moved into was Williamsburg. I shared a $650-each apartment off the Graham Ave L-train for three years. This would be a home for three years. 
 
 I tried to leave Brooklyn after my internship at Nymag at the end of 2006, but failed horribly when Nymag.com offered me a job. Having already given notice in Williamsburg, I got invited to see a room at a giant loft in Bushwick called The Schoolhouse. This ended up being my home for another three years.
 
