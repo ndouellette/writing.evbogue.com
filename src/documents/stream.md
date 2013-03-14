@@ -1,3 +1,5 @@
+March 12 2013 | [Back in Brooklyn](/posts/brooklyn)
+
 March 12 2013 | [Real-time vs the static web](/posts/realtime)
 
 March 12 2013 | New York City, here I come. RDU > JFK, inbound in a few hours.
