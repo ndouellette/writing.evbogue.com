@@ -1,4 +1,6 @@
-March 12 2013 | [Back in Brooklyn](/posts/brooklyn)
+March 14 2013 | This is [what I'm looking for](/posts/lookingfor)
+
+March 13 2013 | [Back in Brooklyn](/posts/brooklyn)
 
 March 12 2013 | [Real-time vs the static web](/posts/realtime)
 
