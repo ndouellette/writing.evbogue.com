@@ -1,4 +1,4 @@
-March 15 2013 | [Bitcoin in NYC](/posts/bitcoin)
+March 15 2013 | [Bitcoin in NYC](/posts/bitcoinnyc)
 
 March 14 2013 | This is [what I'm looking for](/posts/lookingfor)
 
