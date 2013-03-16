@@ -1,3 +1,5 @@
+March 15 2013 | [Started from the bottom now Bitcoins' motherfuckin' here](http://www.youtube.com/watch?v=pID03RrmKow) song by Zhou Tonged
+
 March 15 2013 | [Bitcoin in NYC](/posts/bitcoinnyc)
 
 March 14 2013 | This is [what I'm looking for](/posts/lookingfor)
