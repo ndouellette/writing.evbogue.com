@@ -1,3 +1,5 @@
+March 15 2013 | [Bitcoin in NYC](/posts/bitcoin)
+
 March 14 2013 | This is [what I'm looking for](/posts/lookingfor)
 
 March 13 2013 | [Back in Brooklyn](/posts/brooklyn)
