@@ -1,4 +1,6 @@
-March 16 2013 | Today I learned how to play Uno (hold your hand close). How to run [Node using Lua](http://luvit.io/).  And it's best to run to your bank before your [govt starts taking 10%](http://www.irishexaminer.com/breakingnews/world/cyprus-savers-lose-10-of-money-after-shock-bailout-588134.html). I have still not won Uno.
+March 17 2013 | Today I won at Uno for the first time
+
+March 16 2013 | Today I learned how to play Uno (hold your hand close). How to run [Node using Lua](http://luvit.io/).  And it's best to run to your bank before your [govt starts taking 10%](http://www.irishexaminer.com/breakingnews/world/cyprus-savers-lose-10-of-money-after-shock-bailout-588134.html). I have still not won Uno
 
 March 15 2013 | [Started from the bottom now Bitcoin's motherfuckin' here (drake cover)](http://www.youtube.com/watch?v=pID03RrmKow) song by Zhou Tonged
 
