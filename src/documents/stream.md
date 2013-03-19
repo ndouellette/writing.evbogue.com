@@ -1,4 +1,6 @@
-March 18 2013 | Yoga to the People! Daifuku! Snow! It's the perfect New York day. 
+March 19 2013 | Two bath day at the schoolhouse
+
+March 18 2013 | Yoga to the People! Daifuku! Snow! It's the perfect New York day
 
 March 17 2013 | Today I won at Uno for the first time
 
