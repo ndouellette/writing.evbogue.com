@@ -20,4 +20,4 @@ There are three factors you have to take into account when you're choosing a VPS
 
 3. Physical location. You want your VPS to be speedy, so this means getting it in a good physical location in relation to where the majority of your traffic is coming from. If all of your people are in NYC, don't get a server in Asia. There are of course ways you can set up your site to serve from multiple data-centers, but must of us won't need to do this. Just pick a good location near where you think the most of your peers are. When in doubt, make it close to you.
 
-That's it. If you want specific recommendations, or have specific questions, feel free to get in touch with me. I'm at ev@evbogue.com
+That's it. If you want specific recommendations, or have specific questions, feel free to get in touch with me. I'm at [ev@evbogue.com](ev@evbogue.com)
