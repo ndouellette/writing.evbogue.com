@@ -1,3 +1,5 @@
+March 20 2013 | [How to choose a VPS](/posts/vps)
+
 March 19 2013 | Two bath day at the schoolhouse
 
 March 18 2013 | Yoga to the People! Daifuku! Snow! It's the perfect New York day
