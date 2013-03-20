@@ -10,7 +10,7 @@ You don't want to be left behind.
 
 But how do you choose a VPS? There are so many options.
 
-I've written before about why you should never use Heroku, but I also haven't given you much information about viable alternatives. Now I will. 
+I've written before about [why you might never want to use Heroku](/posts/heroku), but I also haven't given you much information about viable alternatives. Now I will. 
 
 There are three factors you have to take into account when you're choosing a VPS.
 
