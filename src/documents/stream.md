@@ -1,3 +1,5 @@
+March 22 2013 | [Why I use my own email address](/posts/email)
+
 March 21 2013 | [Send me Bitcoins right now](http://rosshill.com.au/bitcoin) by Ross Hill
 
 March 20 2013 | [How to choose a VPS](/posts/vps)
