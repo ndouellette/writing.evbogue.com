@@ -1,3 +1,5 @@
+March 23 2013 | Max Ogden's [Art of Node](https://github.com/maxogden/art-of-node) is the shit
+
 March 22 2013 | [Why I use my own email address](/posts/email)
 
 March 21 2013 | [Send me Bitcoins right now](http://rosshill.com.au/bitcoin) by Ross Hill
