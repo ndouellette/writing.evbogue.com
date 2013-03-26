@@ -1,4 +1,4 @@
-March 26 2013 | Andrew Shell is giving [a talk on Hyperboria](http://sessions.minnestar.org/sessions/80) in Madison, WI.
+March 26 2013 | Andrew Shell is giving [a talk on Hyperboria](http://sessions.minnestar.org/sessions/80) on April 6th.
 
 March 23 2013 | Max Ogden's [Art of Node](https://github.com/maxogden/art-of-node) is the shit
 
