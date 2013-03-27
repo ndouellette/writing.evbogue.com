@@ -1,4 +1,6 @@
-March 26 2013 | Andrew Shell is giving [a talk on Hyperboria](http://sessions.minnestar.org/sessions/80) on April 6th.
+March 27 2013 | After using [Gitlab](http://gitlabhq.com/) as deployed to [Gitboria](http://gitboria.com) (Hyperboria only), it's hard to go back using to [Github](http://github.com)
+
+March 26 2013 | Andrew Shell is giving [a talk about Hyperboria](http://sessions.minnestar.org/sessions/80) on April 6th
 
 March 23 2013 | Max Ogden's [Art of Node](https://github.com/maxogden/art-of-node) is the shit
 
