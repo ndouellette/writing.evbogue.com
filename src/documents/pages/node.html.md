@@ -59,14 +59,6 @@ To run this server, you'll need to install the express module.
 
 Navigate to [http://localhost:3000](http://localhost:3000) and you'll see a similar app to the one you created above. This time, you're using Express to handle your routing.
 
-### Node.js servers deployed
-
-Right now, I have 
-
-+ [writing.evbogue.com](http://writing.evbogue.com) - Where I publish - [source](https://github.com/evbogue/writing.evbogue.com)
-
-+ [subway.evbogue.com](http://subway.evbogue.com) - Node.js IRC server - [source](https://github.com/thedjpetersen/subway)
-
 ### Node.js things of interest
 
 + [Express](http://expressjs.com/)
@@ -76,12 +68,14 @@ Right now, I have
 ### Learn Javascript
 
 + [Eloquent Javascript](http://eloquentjavascript.net/)
++ [JavaScript for Cats](http://jsforcats.com)
 + [Learning to Love Javascript at Google I/O 2011](https://www.youtube.com/watch?v=seX7jYI96GE)
 
 ### Learn Node.js
 
++ [Art of Node](https://github.com/maxogden/art-of-node)
 + [The Node Beginner Book](http://www.nodebeginner.org/)
-+ [The Stream Handbook by James Halliday](https://github.com/substack/stream-handbook)
++ [The Stream Handbook](https://github.com/substack/stream-handbook)
 + [Mixu's Node Book](http://book.mixu.net/single.html)
 
 ### Tutorials
