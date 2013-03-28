@@ -1,3 +1,5 @@
+March 28 2013 | "And many people will tell you that the emergence of a virtual global money supply beyond the reach and control of any government is very real and that it’s time we take it seriously." - [Businessweek](http://www.businessweek.com/articles/2013-03-28/bitcoin-may-be-the-global-economys-last-safe-haven)
+
 March 27 2013 | After using [Gitlab](http://gitlabhq.com/) as deployed to [Gitboria](http://gitboria.com) (Hyperboria only), it's hard to go back using to [Github](http://github.com)
 
 March 26 2013 | Andrew Shell is giving [a talk about Hyperboria](http://sessions.minnestar.org/sessions/80) on April 6th
