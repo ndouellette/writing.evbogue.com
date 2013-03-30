@@ -27,7 +27,11 @@ Now this doesn't mean everything you do needs to be public. Using Gitboria you h
 So learn Git, or go home.
 
 Resources:
+
 [git](http://git-scm.com/)
+
 [github](http://github.com)
+
 [gitboria](http://gitboria.com)
-[Linus Torvalds on Git]()
+
+[Linus Torvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8)
