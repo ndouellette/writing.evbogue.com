@@ -1,3 +1,5 @@
+April 1 2013 | Moved to from Bushwick to Bed-stuy yesterday. Today, discovered [Dough](http://www.nycgo.com/venue/dough)
+
 March 30 2013 | [You are not a developer (if you don't use Git)](/posts/git)
 
 March 28 2013 | "And many people will tell you that the emergence of a virtual global money supply beyond the reach and control of any government is very real and that it’s time we take it seriously." - [Businessweek](http://www.businessweek.com/articles/2013-03-28/bitcoin-may-be-the-global-economys-last-safe-haven)
